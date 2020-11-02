@@ -1,0 +1,7 @@
+[1014/103752.102:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/160207.086:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Amit-PC\AppData\Local\Temp\scoped_dir7328_360020110\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1017/161735.194:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/222801.810:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Amit-PC\AppData\Local\Temp\scoped_dir10600_1973570286\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1017/223721.521:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Amit-PC\AppData\Local\Temp\scoped_dir8076_18829\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1017/223801.867:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1023/123831.200:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
